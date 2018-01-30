@@ -1,5 +1,5 @@
 {
-  "name": "frameworkless-components-with-hyperhtml",
+  "name": "hyperhtml-component",
   "version": "1.0.0",
   "description": "Frameworkless Vanilla JS Components with HyperHTML",
   "main": "index.js",
