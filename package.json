@@ -1,0 +1,19 @@
+{
+  "name": "frameworkless-components-with-hyperhtml",
+  "version": "1.0.0",
+  "description": "Frameworkless Vanilla JS Components with HyperHTML",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hyperhtml": "^2.5.1",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
